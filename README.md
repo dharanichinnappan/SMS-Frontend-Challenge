@@ -15,12 +15,12 @@
     
 2. ### Responsive Grid
     - Created a responsive grid with following headers
-        - city
-        - start date
-        - end date
-        - price 
-        - status
-        - color
+        - City
+        - Start Date
+        - End Date
+        - Price 
+        - Status
+        - Color
      
     - All columns are sortable
     - 'Color' column is sorted based on its 'hue' value.
